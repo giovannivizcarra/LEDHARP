@@ -7,4 +7,4 @@ sensors to produce sound. We used a small single board computer (Raspberry Pi) a
 to digital converter (MCP3008) to monitor the output voltage of five photodetectors (OP805SL) designed with individual bandpass filters set to detect the individual light signals emitted by the
 LED’s. In turn, the LEDs are driven by relaxation oscillator such that the light signal is emitted
 at certain frequencies to account for the dispersion of light.
-OP805
+
