@@ -1,4 +1,4 @@
-# LEDHARP
+# LED HARP
 
 For the final project we combined our love of music with our love of physics and engineering to
 design and create a 5 stringed LED harp. The LED harp is meant to mock an ordinary harp
